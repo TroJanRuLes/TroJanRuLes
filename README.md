@@ -6,3 +6,4 @@
 ##Ссылки на работы автора
 ## первые пробные ссылки на код (практика/обучение)
 -[практика html и css](https://github.com/TroJanRuLes/practic-html-css)
+-[Светофор, управляемый кнопкой](https://github.com/TroJanRuLes/Traffic-Light)
