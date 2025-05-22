@@ -4,6 +4,7 @@
 На данный момент автору нечем похвастаться, но скоро его github преобразится, как и текст, который здесь написан.
 
 ##Ссылки на работы автора
-## первые пробные ссылки на код (практика/обучение)
-+[практика html и css](https://github.com/TroJanRuLes/practic-html-css)
-+[Светофор, управляемый кнопкой](https://github.com/TroJanRuLes/Traffic-Light)
+### первые пробные ссылки на код (практика/обучение)
+
++ [практика html и css](https://github.com/TroJanRuLes/practic-html-css)
++ [Светофор, управляемый кнопкой](https://github.com/TroJanRuLes/Traffic-Light)
