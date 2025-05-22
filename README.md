@@ -4,7 +4,8 @@
 На данный момент автору нечем похвастаться, но скоро его github преобразится, как и текст, который здесь написан.
  ##Ссылки на работы автора
 + [Светофор](https://trojanrules.github.io/Traffic-Light/)
++ [Калькулятор](https://trojanrules.github.io/Calculator/)
 ### первые пробные ссылки на код (практика/обучение)
 
-+ [практика html и css](https://github.com/TroJanRuLes/practic-html-css)
++ [Калькулятор](https://github.com/TroJanRuLes/Calculator)
 + [Светофор, управляемый кнопкой](https://github.com/TroJanRuLes/Traffic-Light)
