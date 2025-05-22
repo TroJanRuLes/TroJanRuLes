@@ -5,7 +5,9 @@
  ##Ссылки на работы автора
 + [Светофор](https://trojanrules.github.io/Traffic-Light/)
 + [Калькулятор](https://trojanrules.github.io/Calculator/)
++ [DudeShape-furniture](https://trojanrules.github.io/DudeShape-furniture/)
 ### первые пробные ссылки на код (практика/обучение)
 
 + [Калькулятор](https://github.com/TroJanRuLes/Calculator)
 + [Светофор, управляемый кнопкой](https://github.com/TroJanRuLes/Traffic-Light)
++ [Верстка "DudeShape-furniture"](https://github.com/TroJanRuLes/DudeShape-furniture)
